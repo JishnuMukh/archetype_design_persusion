@@ -11,7 +11,7 @@ You recognize the Creator archetype by language and visual choices that emphasiz
 ![Modernist Bauhaus Creator hero design](../assets/heroes/creator/modernist.svg)
 
 Archetype: Creator
-Style: [Bauhaus](../styles/modernist/bauhaus.md)
+Style: [Bauhaus](../styles/modernism/bauhaus.md)
 Persuasion: Authority
 Headline: "Form meets function."
 CTA: "Start the project"
