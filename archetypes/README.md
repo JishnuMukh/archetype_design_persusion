@@ -10,13 +10,13 @@ The lead fills in owners and replaces “Add page link” with a link when each 
 |---|---|---|
 | Innocent | Assign owner | Add page link |
 | Everyperson / Everyman | Assign owner | Add page link |
-| Hero | Assign owner | Add page link |
+| Hero | Person B | [Hero](hero.md) |
 | Caregiver | Assign owner | Add page link |
 | Explorer | Assign owner | Add page link |
-| Rebel / Outlaw | Assign owner | Add page link |
+| Rebel / Outlaw | Person B | [Outlaw (Rebel)](outlaw.md) |
 | Lover | Assign owner | Add page link |
 | Creator | Assign owner | Add page link |
 | Jester | Assign owner | Add page link |
 | Sage | Assign owner | Add page link |
-| Magician | Assign owner | Add page link |
+| Magician | Person B | [Magician](magician.md) |
 | Ruler | Assign owner | Add page link |

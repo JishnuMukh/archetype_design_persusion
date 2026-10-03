@@ -8,8 +8,8 @@ The lead fills in owners and replaces “Add page link” with a link when each 
 
 | Topic | Owner | Page |
 |---|---|---|
-| Style 1 — choose as a team | Assign owner | Add page link |
-| Style 2 — choose as a team | Assign owner | Add page link |
+| Swiss Style | Person B | [Swiss Style](swiss-style.md) |
+| Bauhaus | Person B | [Bauhaus](bauhaus.md) |
 | Style 3 — choose as a team | Assign owner | Add page link |
 | Style 4 — choose as a team | Assign owner | Add page link |
 | Style 5 — choose as a team | Assign owner | Add page link |

@@ -10,8 +10,8 @@ The lead fills in owners and replaces “Add page link” with a link when each 
 |---|---|---|
 | Reciprocity | Assign owner | Add page link |
 | Commitment / consistency | Assign owner | Add page link |
-| Social proof | Assign owner | Add page link |
+| Social proof | Person B | [Social proof](social-proof.md) |
 | Authority | Assign owner | Add page link |
 | Liking | Assign owner | Add page link |
-| Scarcity | Assign owner | Add page link |
+| Scarcity | Person B | [Scarcity](scarcity.md) |
 | Unity | Assign owner | Add page link |

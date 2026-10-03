@@ -8,7 +8,7 @@ The lead fills in owners and replaces “Add page link” with a link when each 
 
 | Topic | Owner | Page |
 |---|---|---|
-| Style 1 — choose as a team | Assign owner | Add page link |
+| Memphis Group | Person B | [Memphis Group](memphis-group.md) |
 | Style 2 — choose as a team | Assign owner | Add page link |
 | Style 3 — choose as a team | Assign owner | Add page link |
 | Style 4 — choose as a team | Assign owner | Add page link |
