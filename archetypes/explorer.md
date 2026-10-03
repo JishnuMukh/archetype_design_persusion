@@ -1,46 +1,37 @@
 # Explorer
+
 [Back to this section](README.md) · [Home](../README.md)
 
 ## What is it?
-The Explorer is one of the twelve brand archetypes described by Margaret Mark and Carol S. Pearson in *The Hero and the Outlaw*. It sits with the Innocent and the Sage, the group that wants independence more than belonging. Its promise is blunt: don't fence me in, let me find out who I am by going somewhere I have not been.
-
-Core traits:
-- Desire: the freedom to find out who you are by exploring the world
-- Goal: a more authentic, more fulfilling life
-- Fear: getting trapped, conforming, inner emptiness
-- Strategy: journey, try new things, leave boredom behind
-- Gift: autonomy and the nerve to stay true to yourself
-- Trap: aimless wandering and the inability to commit
+The Explorer archetype is driven by the desire for discovery, freedom, authenticity, and self-reliance. Its central promise is autonomy: breaking out of conformity to experience the world on one's own terms.
 
 ## How do you recognize or use it?
-Audience: people who value independence and authenticity over comfort or belonging. It suits outdoor gear, travel, vehicles, and any brand where the product is less the point than the freedom it enables.
-
-Explorer design favors wide, open space: landscapes, dirt, weather, empty roads. Type is usually plain and utilitarian. Color sits in earth tones (rust, olive, slate) with one bright accent. Photography is documentary, not polished — real places and real wear read as authentic, while overly clean "adventure" imagery reads as fake to this audience.
+Look for bold, expansive imagery, natural textures, robust functional materials, and copy emphasizing journeys, personal agency, and uncharted frontiers.
 
 ## Examples
 
-### Example 1
-![Describe the design](../assets/heroes/explorer/modernist.png)
+### Example 1: Modernist (Art Deco)
+![Forma Explorer Art Deco Hero](../assets/heroes/explorer/modernist.svg)
 
-Archetype: Explorer
-Style: Bauhaus
-Persuasion: Commitment and consistency
-Headline: "Go further than last time."
-CTA: "Start your journey" — frames the user as already the kind of person who goes
+* **Archetype:** Explorer
+* **Design Style:** [Art Deco](../modernism/art-deco.md)
+* **Persuasion Principle:** [Scarcity](../persuasion/scarcity.md)
+* **Headline:** Chart Unmapped Horizons.
+* **Supporting Copy:** Engineered for durability across any journey. Only 150 pieces crafted per batch.
+* **CTA Button:** **Reserve Your Edition** — reserves item in checkout queue.
+* **Design Rationale:** Symmetrical geometric line art channels early 20th-century luxury travel. Scarcity drives prompt action for adventure seekers.
 
-A stripped-down, function-first layout (grid structure, honest materials, no ornament) carries the Explorer's practical, unpretentious character. The CTA leans on commitment and consistency: once someone identifies as the kind of person who "goes," they keep buying what proves it.
+### Example 2: Postmodernist (Vaporwave)
+![Forma Explorer Vaporwave Hero](../assets/heroes/explorer/postmodernist.svg)
 
-### Example 2
-![Describe the design](../assets/heroes/explorer/postmodernist.png)
-
-Archetype: Explorer
-Style: Brutalism
-Persuasion: Scarcity
-Headline: "Before it's mapped."
-CTA: "Go before everyone else does"
-
-A raw, unpolished postmodern layout (heavy type, stark contrast, deliberately unrefined grid) signals the brand isn't selling comfort, it's selling the edge. The headline and CTA both use scarcity, since the unexplored is by definition limited.
+* **Archetype:** Explorer
+* **Design Style:** [Vaporwave](../postmodernism/vaporwave.md)
+* **Persuasion Principle:** [Social Proof](../persuasion/social-proof.md)
+* **Headline:** Wander Without Limits.
+* **Supporting Copy:** Built for wanderers of digital and physical landscapes alike. Worn by over 10,000 global travelers.
+* **CTA Button:** **Join the Journey** — redirects to community feed and product list.
+* **Design Rationale:** Neon gradients and surreal perspective suggest crossing boundaries. Social proof reassures travelers of real-world endurance.
 
 ## Sources
-- Margaret Mark and Carol S. Pearson, *The Hero and the Outlaw: Building Extraordinary Brands Through the Power of Archetypes* (McGraw-Hill, 2001)
-- Robert B. Cialdini, *Influence* and *Pre-Suasion*, for the persuasion methods referenced above
+* Margaret Mark and Carol S. Pearson, *The Hero and the Outlaw: Building Extraordinary Brands Through the Power of Archetypes* (McGraw-Hill, 2001)
+* Robert B. Cialdini, *Influence* and *Pre-Suasion*, for the persuasion methods referenced above

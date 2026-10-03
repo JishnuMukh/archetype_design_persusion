@@ -21,27 +21,27 @@ It fits brands selling comfort food, baby and family products, natural or "clean
 
 ## Examples
 
-### Example 1
-![Describe the design](../assets/heroes/innocent/modernist.png)
+### Example 1: Modernist (Mid-Century Modern)
+![Forma Innocent Mid-Century Modern Hero](../assets/heroes/innocent/modernist.svg)
 
-Archetype: Innocent
-Style: Mid-Century Modern
-Persuasion: Liking
-Headline: "Simple, the way it should be."
-CTA: "Try it today" — low-commitment, inviting action
+* **Archetype:** Innocent
+* **Design Style:** [Mid-Century Modern](../modernism/mid-century-modern.md)
+* **Persuasion Principle:** [Unity](../persuasion/unity.md)
+* **Headline:** Purely Simple. Honest Comfort.
+* **Supporting Copy:** Made from 100% unbleached organic cotton. Nothing hidden, nothing synthetic.
+* **CTA Button:** **Shop the Clean Collection** — navigates to the core collection.
+* **Design Rationale:** Clean organic curves and warm neutral tones reflect the Innocent's honest optimism. The Unity principle reinforces a community committed to natural transparency.
 
-A clean, uncluttered hero banner using a restrained mid-century palette (cream, soft yellow, muted sage) and plain geometric shapes communicates simplicity and warmth without ornament. The headline states the Innocent's core promise directly, and the soft, approachable tone builds liking rather than urgency.
+### Example 2: Postmodernist (Vaporwave)
+![Forma Innocent Vaporwave Hero](../assets/heroes/innocent/postmodernist.svg)
 
-### Example 2
-![Describe the design](../assets/heroes/innocent/postmodernist.png)
-
-Archetype: Innocent
-Style: Vaporwave
-Persuasion: Social proof
-Headline: "Back to simple."
-CTA: "Join thousands who switched back"
-
-A softened, nostalgic postmodern treatment (pastel gradient, light grain, retro type) frames the brand as a return to an idealized, simpler past. The CTA leans on social proof, since an Innocent audience trusts that many others already made the safe choice.
+* **Archetype:** Innocent
+* **Design Style:** [Vaporwave](../postmodernism/vaporwave.md)
+* **Persuasion Principle:** [Reciprocity](../persuasion/reciprocity.md)
+* **Headline:** Nostalgia in Pure Cotton.
+* **Supporting Copy:** Soft pastel tones and vintage simplicity designed for effortless daydreams.
+* **CTA Button:** **Claim Your Free Lookbook** — opens digital styling guide download.
+* **Design Rationale:** Soft vaporwave pastels evoke gentle nostalgia and peace. The complimentary lookbook creates goodwill through reciprocity.
 
 ## Sources
 - Margaret Mark and Carol S. Pearson, *The Hero and the Outlaw: Building Extraordinary Brands Through the Power of Archetypes* (McGraw-Hill, 2001)
