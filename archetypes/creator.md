@@ -35,4 +35,3 @@ This version keeps the Creator archetype rooted in originality and experimentati
 - Margaret Mark and Carol S. Pearson, The Hero and the Outlaw: Building Extraordinary Brands Through the Power of Archetypes, https://www.amazon.com/Hero-Outlaw-Building-Extraordinary-Archetypes/dp/0071357174 — a widely cited branding framework that defines archetypes including the Creator and explains how they shape audience perception.
 - The Bauhaus, https://www.bauhaus.de/en/ — official Bauhaus site with historical context and design principles.
 - Victoria and Albert Museum, “What is Postmodernism?”, https://www.vam.ac.uk/articles/what-is-postmodernism — concise overview of postmodern design principles, including Memphis, theatrical color, and stylistic complexity.
-- If you add artwork to this page later, credit the original creator and confirm the reuse terms for the image before publishing.
