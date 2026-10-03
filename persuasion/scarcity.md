@@ -17,4 +17,4 @@ Common forms include a real application deadline, a limited-seat event, a finite
 
 - [Cialdini’s principles of persuasion, Influence at Work](https://www.influenceatwork.com/7-principles-of-persuasion/) — overview and discussion of scarcity.
 - [Cialdini Institute: Scarcity](https://assessment.cialdini.com/types/scarcity) — contemporary overview of the principle.
-- Brock, T. C. (1968), “Implications of commodity theory for value change,” in *Psychological Foundations of Attitudes*. Scarcity research overview: [Brock’s commodity theory research](https://doi.org/10.1207/s15324834basp1301_11).
+- Brock, T. C., & Brannon, L. A. (1992). “Liberalization of Commodity Theory.” *Basic and Applied Social Psychology, 13*(1), 135–144. [https://doi.org/10.1207/s15324834basp1301_11](https://doi.org/10.1207/s15324834basp1301_11).

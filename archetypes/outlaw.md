@@ -15,13 +15,13 @@ The paired concepts use one fictional repairable phone offer, **OPEN CIRCUIT**. 
 
 ### Example 1 — Modernist
 
-![Placeholder: The Outlaw — Modernist. Add the final image at assets/heroes/outlaw/modernist.png.](../assets/heroes/outlaw/modernist.png)
+![The Outlaw — Modernist static hero design.](../assets/heroes/outlaw/modernist.jpeg)
 
 Archetype: Outlaw. Style: [Swiss Style](../modernism/swiss-style.md). Persuasion: commitment and consistency, inviting people to act in line with a preference for repair. Headline: “Break the default.” CTA: “Choose repairable.” A disciplined grid gives the argument clarity, while the disassembled phone symbol makes the alternative to a disposable upgrade cycle concrete.
 
 ### Example 2 — Postmodernist
 
-![Placeholder: The Outlaw — Postmodernist. Add the final image at assets/heroes/outlaw/postmodernist.png.](../assets/heroes/outlaw/postmodernist.png)
+![The Outlaw — Postmodernist static hero design.](../assets/heroes/outlaw/postmodernist.jpeg)
 
 Archetype: Outlaw. Style: [Memphis Group](../postmodernism/memphis-group.md). Persuasion: commitment and consistency, framed as a choice against the default. Headline: “Break the default.” CTA: “Choose repairable.” The unruly color and tilted panel give the message a disruptive voice; the same product and action keep the design tied to a practical alternative rather than rebellion alone.
 

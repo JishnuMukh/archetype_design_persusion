@@ -15,13 +15,13 @@ The paired concepts use one fictional fitness offer, **SUMMIT FIELD**, so the st
 
 ### Example 1 — Modernist
 
-![Placeholder: The Hero — Modernist. Add the final image at assets/heroes/hero/modernist.png.](../assets/heroes/hero/modernist.png)
+![The Hero — Modernist static hero design.](../assets/heroes/hero/modernist.jpeg)
 
 Archetype: Hero. Style: [Swiss Style](../modernism/swiss-style.md). Persuasion: commitment and consistency, expressed through training toward a chosen goal. Headline: “Earn your next summit.” CTA: “Start your training.” The strict grid, restrained color, and direct promise frame mastery as a disciplined process; the mountain illustration makes the challenge legible without claiming results.
 
 ### Example 2 — Postmodernist
 
-![Placeholder: The Hero — Postmodernist. Add the final image at assets/heroes/hero/postmodernist.png.](../assets/heroes/hero/postmodernist.png)
+![The Hero — Postmodernist static hero design.](../assets/heroes/hero/postmodernist.jpeg)
 
 Archetype: Hero. Style: [Memphis Group](../postmodernism/memphis-group.md). Persuasion: commitment and consistency, expressed through a concrete first training step. Headline: “Earn your next summit.” CTA: “Start your training.” Bright color and irregular shapes make the climb feel energetic, while the same specific action preserves the Hero’s emphasis on effort and capability.
 

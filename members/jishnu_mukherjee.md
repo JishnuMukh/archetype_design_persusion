@@ -7,14 +7,14 @@ I’m Jishnu Mukherjee, a student contributing reference pages on brand archetyp
 
 ## My issues and contributions
 
-- The Hero — [issue link to add] — In progress; wrote the four-section archetype page and created modernist and postmodernist hero concepts.
-- The Outlaw (Rebel) — [issue link to add] — In progress; wrote the four-section archetype page and created two matching hero concepts.
-- The Magician — [issue link to add] — In progress; wrote the four-section archetype page and created two matching hero concepts.
-- Swiss Style — [issue link to add] — In progress; researched the style and described two historical poster examples.
-- Bauhaus — [issue link to add] — In progress; researched the movement and described two historical graphic examples.
-- Memphis Group — [issue link to add] — In progress; researched the group and connected two historical object examples to persuasive design.
-- Social Proof — [issue link to add] — In progress; explained the principle and drafted a verifiable application example.
-- Scarcity — [issue link to add] — In progress; explained the principle and drafted an honest, bounded application example.
+- The Hero — [Create Page: The Hero Archetype](https://github.com/mpincay619/archetype_design_persusion/issues/10) — In progress; wrote the four-section archetype page and created modernist and postmodernist hero concepts.
+- The Outlaw (Rebel) — [Create Page: The Outlaw (Rebel) Archetype](https://github.com/mpincay619/archetype_design_persusion/issues/12) — In progress; wrote the four-section archetype page and created two matching hero concepts.
+- The Magician — [Create Page: The Magician Archetype](https://github.com/mpincay619/archetype_design_persusion/issues/13) — In progress; wrote the four-section archetype page and created two matching hero concepts.
+- Swiss Style — [Style Page: Swiss Style](https://github.com/mpincay619/archetype_design_persusion/issues/15) — In progress; researched the style and described two historical poster examples.
+- Bauhaus — [Style Page: Bauhaus](https://github.com/mpincay619/archetype_design_persusion/issues/14) — In progress; researched the movement and described two historical graphic examples.
+- Memphis Group — [Style Page: Memphis Group](https://github.com/mpincay619/archetype_design_persusion/issues/16) — In progress; researched the group and connected two historical object examples to persuasive design.
+- Social Proof — [Persuasion Principle: Social Proof](https://github.com/mpincay619/archetype_design_persusion/issues/17) — In progress; explained the principle and drafted a verifiable application example.
+- Scarcity — [Persuasion Principle: Scarcity](https://github.com/mpincay619/archetype_design_persusion/issues/18) — In progress; explained the principle and drafted an honest, bounded application example.
 
 ## What I learned
 

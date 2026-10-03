@@ -15,13 +15,13 @@ The paired concepts use one fictional room-lighting planner, **AFTERLIGHT**. The
 
 ### Example 1 — Modernist
 
-![Placeholder: The Magician — Modernist. Add the final image at assets/heroes/magician/modernist.png.](../assets/heroes/magician/modernist.png)
+![The Magician — Modernist static hero design.](../assets/heroes/magician/modernist.jpeg)
 
 Archetype: Magician. Style: [Swiss Style](../modernism/swiss-style.md). Persuasion: reciprocity, through a low-friction preview of a useful possibility. Headline: “See what could be.” CTA: “Try the room planner.” The precise grid gives the abstract light transformation a practical frame; a clear action links the imaginative promise to a concrete preview.
 
 ### Example 2 — Postmodernist
 
-![Placeholder: The Magician — Postmodernist. Add the final image at assets/heroes/magician/postmodernist.png.](../assets/heroes/magician/postmodernist.png)
+![The Magician — Postmodernist static hero design.](../assets/heroes/magician/postmodernist.jpeg)
 
 Archetype: Magician. Style: [Memphis Group](../postmodernism/memphis-group.md). Persuasion: reciprocity, suggesting an exploratory preview before a larger commitment. Headline: “See what could be.” CTA: “Try the room planner.” Playful geometry makes transformation feel surprising and accessible, while the CTA keeps the promise attached to an understandable tool.
 
