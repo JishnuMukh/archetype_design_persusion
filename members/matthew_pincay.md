@@ -15,7 +15,9 @@ Sophomore studying HCI with an Industrial Design minor at NJIT. Interested in br
 - [Create About Page - Matthew Pincay](https://github.com/mpincay619/archetype_design_persusion/issues/9) — Completed; this page.
 
 ## What I learned
-[Add a short reflection once the assignment is done — e.g. something specific about using Git branches and pull requests for a group project, or about how archetype, design style, and persuasion method connect on one page rather than as separate ideas.]
+Managing this repository as lead reinforced how strict modernist design principles like grid systems and typographic hierarchy directly support digital conversion and clear communication. Collaborating across Git branches and reviewing pull requests gave our team practical experience coordinating content and aligning our visual brand identity.
 
 ## Credits
-[Credit teammates here once their pages are in, e.g. thanks to Mayumi for the Caregiver page.]
+* Mayumi for completing the Caregiver and Ruler archetype pages.
+* Jishnu (Vishnu) for completing the Hero, Outlaw, and Magician archetype pages.
+* Rajveer for authoring the Lover, Creator, and Jester archetype pages.
